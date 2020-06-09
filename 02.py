@@ -7,8 +7,7 @@
 
 def isBalancedSequecy(sequency):
 
-    # Declare opened bracket types
-    openedBrackets = ["(", "{", "["]
+    # Declare opened bracket dict data
     brackets_dict = {"(" : ")", "{" : "}", "[" : "]", }
 
     # Declare our stakc
