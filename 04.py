@@ -6,7 +6,7 @@ Input: [0,1,0,2,1,0,1,3,2,1,2,1]
 Output: 6
 '''
 
-def findWater(lista): 
+def find_qty_water(lista): 
   
     # initialize our result 
     result = 0
